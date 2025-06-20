@@ -1,5 +1,5 @@
 
-GNVA Project Scaffold
+🚀GNVA Project Scaffold🚀
 
 Proposed for the GNVA project, structured for Terraform-managed infrastructure, modular applications, and CI/CD workflows.
 
